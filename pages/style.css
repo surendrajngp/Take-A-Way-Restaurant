@@ -1,0 +1,13 @@
+.bg-main {
+  background-color: #3f3d57 !important;
+}
+
+.custom-nav {
+  height: 80px;
+  font-size: 1.2rem;
+}
+
+main {
+  height: 90vh;
+  width: 100vw;
+}
